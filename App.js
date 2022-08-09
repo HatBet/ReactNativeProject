@@ -1,10 +1,10 @@
 import React from "react";
-import Count from "./Count";
+import Components from "./Components";
 
 function App() {
 
   return (
-  <Count/>
+  <Components/>
   );
 }
 
